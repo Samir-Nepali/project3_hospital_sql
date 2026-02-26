@@ -16,4 +16,5 @@ The problem that hospital is facing:-
 ## ER-Diagram
 ![Blank diagram](https://github.com/user-attachments/assets/85540efd-4f97-4837-8f04-07b67369fbc5)
 
-## Link for other excels file: https://drive.google.com/drive/folders/1DY7xG98V-3IRU85xsPWCgMnigG_HTOw9?usp=drive_link
+## Link for other excels file
+https://drive.google.com/drive/folders/1DY7xG98V-3IRU85xsPWCgMnigG_HTOw9?usp=drive_link
